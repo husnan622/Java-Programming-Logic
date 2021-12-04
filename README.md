@@ -1,1 +1,1 @@
-# Java-Programming-Logic
+# Java Programming Logic
